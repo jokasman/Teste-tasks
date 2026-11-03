@@ -1,0 +1,6 @@
+{
+  "name": "MinhaLista",
+  "description": "Aplicação moderna e minimalista de gestão de tarefas offline com armazenamento local automático.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

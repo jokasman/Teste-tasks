@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MinhaLista</string>
+    <string name="tagline">Organização simples e rápida</string>
+    <string name="new_task_hint">O que tem para fazer?</string>
+    <string name="add_task_button">Adicionar</string>
+    <string name="pending_tasks_zero">Nenhuma tarefa pendente</string>
+    <string name="pending_tasks_one">1 tarefa pendente</string>
+    <string name="pending_tasks_many">%1$d tarefas pendentes</string>
+    <string name="filter_all">Todas</string>
+    <string name="filter_pending">Pendentes</string>
+    <string name="filter_completed">Concluídas</string>
+    <string name="search_hint">Pesquisar tarefas…</string>
+    <string name="empty_tasks_title">A sua lista está vazia</string>
+    <string name="empty_tasks_desc">Comece por adicionar a sua primeira tarefa no campo abaixo.</string>
+    <string name="empty_pending_title">Tudo concluído!</string>
+    <string name="empty_pending_desc">Parabéns, não tem tarefas pendentes no momento.</string>
+    <string name="empty_completed_title">Sem tarefas concluídas</string>
+    <string name="empty_completed_desc">As tarefas marcadas como feitas aparecerão aqui.</string>
+    <string name="empty_search_title">Nenhum resultado</string>
+    <string name="empty_search_desc">Não foram encontradas tarefas com esse termo.</string>
+    <string name="delete_task_content_desc">Eliminar tarefa</string>
+    <string name="toggle_task_content_desc">Marcar como concluída</string>
+    <string name="clear_completed_action">Limpar concluídas</string>
+    <string name="task_deleted_message">Tarefa eliminada</string>
+    <string name="undo_action">Anular</string>
+    <string name="confirm_delete_title">Eliminar tarefa?</string>
+    <string name="confirm_delete_message">Tem a certeza de que deseja eliminar \"%1$s\"?</string>
+    <string name="confirm_delete_confirm">Eliminar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="stats_completed_badge">%1$d/%2$d feitas</string>
+</resources>
